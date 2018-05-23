@@ -1,0 +1,27 @@
+{
+  "name": "moment-mini-es6",
+  "version": "1.0.0",
+  "description": "Like moment-es6, but for moment-mini",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benelliott/moment-mini-es6.git"
+  },
+  "keywords": [
+    "es6",
+    "moment",
+    "moment-mini"
+  ],
+  "author": "4996462+benelliott@users.noreply.github.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benelliott/moment-mini-es6/issues"
+  },
+  "homepage": "https://github.com/benelliott/moment-mini-es6#readme",
+  "dependencies": {
+    "moment-mini": "*"
+  }
+}
